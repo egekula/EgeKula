@@ -4,7 +4,7 @@
 
 - 🔭 I’m studying Software Engineering and Digital Game Design at Istınye University.
 
-- 🌱 I’m currently learning C# and Unity.
+- 🌱 I’m currently learning Flutter and C#.
 
 - My games:
 - The Last Man Standing / https://egekula.itch.io/the-last-man-standing
