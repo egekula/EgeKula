@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m studying Software Engineering and Digital Game Design at Istınye University.
-
+- 🎓 I’m studying Software Engineering and Digital Game Design at Istınye University.
+- 🔭 Trainee at Google Game and Application Academy.
 - 🌱 I’m currently learning Flutter and C#.
 
 - My games:
