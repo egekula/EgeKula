@@ -9,5 +9,5 @@
 - My games:
 - The Astronaut / https://play.google.com/store/apps/details?id=com.DefaultCompany.TheAstronaut&gl=TR
 
-- 📫 How to reach me: egekula.dev@gmail.com / https://www.linkedin.com/in/ege-kula
+- 📫 How to reach me: egekula.dev@gmail.com / https://www.linkedin.com/in/egekula
 
