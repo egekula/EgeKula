@@ -2,15 +2,12 @@
 
 
 
-- 🎓 I’m studying Software Engineering and Digital Game Design at Istınye University.
-- 🔭 Trainee at Google Game and Application Academy.
-- 🌱 I’m currently learning Flutter and C#.
-
+- 🎓 I’m studying Software Engineering and Digital Game Design at Istinye University.
+- 🌱 I am continuously improving myself in software development, actively working on various projects to adapt to new technologies and produce the best solutions.
+- 🌱 I am focusing on C# and .NET technologies to strengthen my backend development skills. I aim to become a proficient backend developer by gaining experience in data management, API design, and software architecture.
+  
 - My games:
-- The Last Man Standing / https://egekula.itch.io/the-last-man-standing
 - The Astronaut / https://play.google.com/store/apps/details?id=com.DefaultCompany.TheAstronaut&gl=TR
-- For Love Of Pumpkin / Istinye Game Jam Game / https://egekula.itch.io/for-love-of-pumpkin
-- Lost In Galaxy / https://egekula.itch.io/lost-in-galaxy
 
-- 📫 How to reach me: egekula3@gmail.com / https://www.linkedin.com/in/ege-kula-b513191bb
+- 📫 How to reach me: egekula.dev@gmail.com / https://www.linkedin.com/in/ege-kula
 
